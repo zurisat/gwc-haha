@@ -111,7 +111,7 @@ li.nav a:hover {
   align-items: center; /* Align the flex items to the center */
 
   /* Design properties */
-  background-color: pink;
+  background-color: red;
   padding: 5px;
 
   /* Positioning properties */
@@ -127,7 +127,7 @@ li.nav a:hover {
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
   padding: 2%;
-  color: red;
+  color: pink;
   font-size: 50px;
   letter-spacing: 10px;
   line-height: 60px;
@@ -139,10 +139,10 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
-  background-color: red; /* Add your own background color */
+  background-color: pink; /* Add your own background color */
   padding: 4%;
   margin: 3%;
-  color: pink; /* Add the color of your font */
+  color: red; /* Add the color of your font */
   font-size: 20px; /* Add your font size*/
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
