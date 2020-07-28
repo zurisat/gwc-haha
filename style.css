@@ -21,7 +21,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: orange; /* Change the background color */
+  background-color: red; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -192,12 +192,12 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("data:image/jpeg;base64,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");
+  background-image: url("https://cdn.shopify.com/s/files/1/1826/3849/articles/FirstPeriod_1024x1024.jpg?v=1522086461");
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 .image-two {
-  background-image: url("https://cdn.shopify.com/s/files/1/1826/3849/articles/FirstPeriod_1024x1024.jpg?v=1522086461
+  background-image: url("https://i0.wp.com/www.dailycal.org/assets/uploads/2020/05/coloredited_katherineqiu_menstruation-01-900x580.jpg");
 }
 
 /* TODO: Add more background images by repeating the process above */
