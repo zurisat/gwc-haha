@@ -60,7 +60,7 @@
   padding: 35px;
   margin: 5%;
   flex-grow: 1;
-  background-color: #0d9c90;
+  background-color: black;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
@@ -113,7 +113,7 @@
   list-style-type: none;
   transition: 0.2s;
   width: 85%;
-  color: orange;
+  color: black;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
