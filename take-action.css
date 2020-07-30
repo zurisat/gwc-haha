@@ -6,7 +6,7 @@
   width: 100%;
   position: absolute;
   text-transform: uppercase;
-  background-color: #0D38D3;
+  background-color: red;
 }
 
 
@@ -58,18 +58,18 @@
   padding: 35px;
   margin: 5%;
   flex-grow: 1;
-  background-color: #0d9c90;
+  background-color: white;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
 /* Holds all elements related to the action item list; inside the action-list-container */
 #checklist {
-  background-color: white;
+  background-color: red;
   border-radius: 15px;
   padding-top: 5px;
   padding-bottom: 15px;
   border-style: solid;
-  border-color: #43d6b9ff;
+  border-color: pink;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
@@ -77,7 +77,7 @@
 /* Header in the list container */
 #checklist-header {
   text-align: center;
-  color: #0D38D3;
+  color: pink;
   letter-spacing: 1px;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
@@ -87,7 +87,7 @@
   font: 14px "Roboto", sans-serif;
   text-align: center;
   font-style: italic;
-  color: #0D38D3;
+  color: indigo;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
   
 }
@@ -110,7 +110,7 @@
   list-style-type: none;
   transition: 0.2s;
   width: 85%;
-  color: black;
+  color: pink;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 

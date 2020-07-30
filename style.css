@@ -30,7 +30,7 @@ h1 {
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
-  color: #43d6b9ff;
+  color: pink;
   text-align: center;
 }
 
@@ -39,7 +39,7 @@ h2 {
   letter-spacing: 3px;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
-  color: red;
+  color: pink;
   text-align: center;
   line-height: 1.3em;
 }
