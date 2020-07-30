@@ -60,7 +60,7 @@
   padding: 35px;
   margin: 5%;
   flex-grow: 1;
-  background-color: black;
+  background-color: red;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
@@ -121,7 +121,7 @@
 #my-list li::before {
   content: "";
   position: absolute;
-  border-color: #43d6b9ff;
+  border-color: red;
   border-style: solid;
   border-width: 2px;
   
@@ -142,18 +142,19 @@ like a checkmark!
 /* Change background color when cursor hovers over list items */
 #my-list li:hover {
   background: #f3f3f3;
-  color: #0D38D3;
+  color: red;
 }
 
 /* Change check square color when cursor hovers over */
 #my-list li:hover::before {
-  border-color: #0D38D3;
+  border-color: pink;
   border-style: solid;
 }
 
 /* When marked complete (i.e. clicked on) add strikethrough */
 #my-list li.all-done {
   text-decoration: line-through;
+  color: red;
 }
 
 /* Add a "checked" mark when clicked on */
