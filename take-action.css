@@ -39,7 +39,8 @@
 
 /* Left box under title; item in .flex-container */
 .action-info-container {
-  width: 100%;
+  width: 75%;
+  length: 30
   margin-right: 5%;
   margin-left: 0;
   margin-top: 5%;
@@ -47,6 +48,7 @@
   padding: 35px;
   font-size: 16px;
   flex-grow: 2;
+  background-color: pink;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
