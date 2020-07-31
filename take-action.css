@@ -10,7 +10,10 @@
 }
 
 .color-pls{
-  color: pink;
+  color: red;
+}
+.hypermarché {
+  color: white;
 }
 /******************************************************/
 /***************** ACTION ITEM LIST *******************/
@@ -40,7 +43,6 @@
 /* Left box under title; item in .flex-container */
 .action-info-container {
   width: 75%;
-  length: 30
   margin-right: 5%;
   margin-left: 0;
   margin-top: 5%;
@@ -49,6 +51,7 @@
   font-size: 16px;
   flex-grow: 2;
   background-color: pink;
+  border-radius: 15px;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
