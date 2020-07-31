@@ -238,5 +238,10 @@ like a checkmark!
 .lord img{
   width: 30%;
   margin-left: 2%;
-  
+}
+
+.lord{
+  background-color: pink;
+  border-radius: 15px;
+  padding: 30px 20px 20px 20px;
 }
